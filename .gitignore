@@ -1,0 +1,6 @@
+*.bin
+tags
+user_config.json
+user_config_backup.json
+gen_fw.py
+
